@@ -177,4 +177,3 @@ console.log(account2.calculateInterest(3, 1)); // Compound interest for 1 years 
 
 ## Conclusion
 These projects demonstrate the use of JavaScript objects and the Math class to build functional applications. By completing these projects, students will gain practical experience in object-oriented programming and mathematical computations in JavaScript.
-```
