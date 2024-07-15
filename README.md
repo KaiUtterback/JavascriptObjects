@@ -2,8 +2,8 @@
 # JavaScript Projects
 
 ## Objective
-The aim of these projects is to deepen understanding and proficiency in manipulating JavaScript objects, using constructor functions, working with
-prototypes, and utilizing the Math class for mathematical operations.
+The aim of these projects is to deepen understanding and proficiency in manipulating JavaScript objects, using constructor
+functions, working with prototypes, and utilizing the Math class for mathematical operations.
 
 ## Projects Overview
 
